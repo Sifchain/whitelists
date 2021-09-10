@@ -1,6 +1,6 @@
 {
   "name": "Sifchain",
-  "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/ROWAN.svg",
+  "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/siflogo.png",
   "keywords": [
     "peggy",
     "pegged assets",
@@ -16,7 +16,7 @@
       "name": "eROWAN",
       "decimals": 18,
       "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/ROWAN.svg"
+      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/siflogo.png"
     },
     {
       "chainId": 1,
