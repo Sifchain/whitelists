@@ -1,72 +1,68 @@
 {
-  "name": "Sifchain",
-  "logoURI": "https://sifchain.github.io/whitelists/sifchain.png",
-  "keywords": [
-    "peggy",
-    "pegged assets",
-    "cosmos ecosystem"
-  ],
-  "tags": {},
-  "timestamp": "2021-09-10T21:47:27.416Z",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
-      "symbol": "EROWAN",
-      "name": "eROWAN",
-      "decimals": 18,
-      "tags": [],
-      "logoURI": "https://sifchain.github.io/whitelists/sifchain.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x76C4A2B59523eaE19594c630aAb43288dBB1463f",
-      "symbol": "IRIS",
-      "name": "IRISnet",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/IRIS.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/ATOM.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xae837EacBAE2a6bA166ce0DEd5C72340f212835c",
-      "symbol": "XPRT",
-      "name": "Persistence",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/XPRT.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
-      "symbol": "AKT",
-      "name": "Akash Network",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/AKT.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xeEE10b3736d5978924f392ED67497cfAE795128B",
-      "symbol": "REGEN",
-      "name": "Regen Network",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "https://dex-sifchain-finance.ipns.dweb.link/images/tokens/REGEN.svg"
-    }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+	"name": "Sifchain",
+	"logoURI": "https://sifchain.github.io/whitelists/logos/ROWAN.png",
+	"keywords": ["peggy", "pegged assets", "cosmos ecosystem"],
+	"tags": {},
+	"timestamp": "2021-09-11T07:07:35.605Z",
+	"tokens": [
+		{
+			"chainId": 1,
+			"address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+			"symbol": "EROWAN",
+			"name": "eROWAN",
+			"decimals": 18,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/ROWAN.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x76C4A2B59523eaE19594c630aAb43288dBB1463f",
+			"symbol": "IRIS",
+			"name": "IRISnet",
+			"decimals": 6,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/IRIS.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+			"symbol": "ATOM",
+			"name": "Cosmos",
+			"decimals": 6,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/ATOM.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xae837EacBAE2a6bA166ce0DEd5C72340f212835c",
+			"symbol": "XPRT",
+			"name": "Persistence",
+			"decimals": 6,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/XPRT.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
+			"symbol": "AKT",
+			"name": "Akash Network",
+			"decimals": 6,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/AKT.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xeEE10b3736d5978924f392ED67497cfAE795128B",
+			"symbol": "REGEN",
+			"name": "Regen Network",
+			"decimals": 6,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/REGEN.png"
+		}
+	],
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 1
+	}
 }
