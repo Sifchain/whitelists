@@ -8,15 +8,6 @@
 		{
 			"chainId": 1,
 			"address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
-			"symbol": "MCCALL",
-			"name": "McCallCoin",
-			"decimals": 18,
-			"tags": [],
-			"logoURI": "https://sifchain.github.io/whitelists/logos/MCCALL.png"
-		},
-		{
-			"chainId": 1,
-			"address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
 			"symbol": "EROWAN",
 			"name": "eROWAN",
 			"decimals": 18,
