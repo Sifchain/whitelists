@@ -5,6 +5,16 @@
 	"tags": {},
 	"timestamp": "2021-09-11T07:07:35.605Z",
 	"tokens": [
+				
+		{
+			"chainId": 1,
+			"address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+			"symbol": "Mccall",
+			"name": "eROWAN",
+			"decimals": 18,
+			"tags": [],
+			"logoURI": "https://sifchain.github.io/whitelists/logos/ROWAN.png"
+		},
 		{
 			"chainId": 1,
 			"address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
